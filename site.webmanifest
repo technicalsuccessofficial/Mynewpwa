@@ -1,0 +1,23 @@
+{
+ "name": "TechnicalSuccessOfficial",
+ "short_name": "TechnicalSuccessOfficial",
+ "icons": [
+     {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgehLdgiVfi0tQclrhlf-fM_MAGGDZtqGXwgkxLAdtXGkGBcxBii1Lxs66EYf488P3fgBbOnf3Uq6BdhWepOOKmH1NeagqTOAYnaAcc4JWqr8Hgrrb4jciDWt23kR5QRH4IWBLn2WHByhlDqeiIbMoUbFSncbtjqQEzFuk5uhwraBzOp-QwC13cv7cvAg=s2048",
+         "sizes": "192x192",
+         "type": "image/png",
+         "purpose": "any maskable"
+     },
+     {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgehLdgiVfi0tQclrhlf-fM_MAGGDZtqGXwgkxLAdtXGkGBcxBii1Lxs66EYf488P3fgBbOnf3Uq6BdhWepOOKmH1NeagqTOAYnaAcc4JWqr8Hgrrb4jciDWt23kR5QRH4IWBLn2WHByhlDqeiIbMoUbFSncbtjqQEzFuk5uhwraBzOp-QwC13cv7cvAg=s2048",
+         "sizes": "512x512",
+         "type": "image/png",
+         "purpose": "any maskable"
+     }
+ ],
+ "theme_color": "#ffffff",
+ "background_color": "#ffffff",
+ "display": "standalone",
+ "prefer_related_applications": false,
+  "start_url": "https://www.naukarilift.com"
+}
